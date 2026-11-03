@@ -1,0 +1,43 @@
+---
+output:
+  word_document: default
+  html_document: default
+  pdf_document: default
+---
+----
+title: "Sales performance Report"
+author: "Dr. Prabhu"
+date: "2026-09-13"
+----
+
+The Sales report for FY 2025-26 is submitted. The following is the sales analysis.
+
+
+```{r echo=FALSE}
+library(ggplot2)
+
+ggplot(mpg, aes(cty, hwy)) +
+  geom_point()
+
+```
+
+
+```{r}
+
+```
+
+
+
+```{python}
+
+```
+
+
+
+
+
+
+
+
+
+
